@@ -1,0 +1,8 @@
+#Skills
+.*.skills
+.agents
+.claude
+*.json
+.hermes
+
+IDEA.md
